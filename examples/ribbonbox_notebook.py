@@ -1,3 +1,9 @@
+"""
+====================
+Demo of SVG bar chart
+====================
+"""
+
 # Let's try to read gift-pack-svgrepo-com2.svg
 # https://www.svgrepo.com/svg/368437/gift-pack
 

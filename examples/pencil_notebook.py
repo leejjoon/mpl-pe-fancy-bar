@@ -1,3 +1,9 @@
+"""
+====================
+Another Demo of SVG bar chart
+====================
+"""
+
 from matplotlib.transforms import Affine2D
 
 xmlstring = b"""<?xml version="1.0" encoding="iso-8859-1"?>

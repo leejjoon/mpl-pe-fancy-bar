@@ -36,7 +36,7 @@ class Icon:
 
 
 class BarWithIcon(BarTransformBase):
-    def __init__(self, icon, scale=0.3, dh=0.5, orientation="vertical",
+    def __init__(self, icon, scale=0.6, dh=0.5, orientation="vertical",
                  rotate_deg=None):
         super().__init__(orientation)
         self._icon = icon
